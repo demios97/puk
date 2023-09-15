@@ -1,0 +1,215 @@
+{
+  "categories": [
+    {
+      "id": "18440f1b-fb71-4454-b132-bf97c62ae618",
+      "layoutType": "wide_grid",
+      "name": "Shortcuts",
+      "shortcuts": [
+        {
+          "iconName": "black_weather_FFFFFF",
+          "id": "b9ec6fa7-01df-49b2-bcca-adf905c0f5d6",
+          "launcherShortcut": true,
+          "name": "Balcony Light On",
+          "proxy": "",
+          "quickSettingsTileShortcut": true,
+          "responseHandling": {
+            "successMessage": "HDMI 2",
+            "successOutput": "none",
+            "uiType": "toast"
+          },
+          "url": "https://trigger.esp8266-server.de/api/?id\u003d3989\u0026hash\u003d0742d9963350e22f6d9140cfb558df9f"
+        },
+        {
+          "iconName": "black_moon_FFFFFF",
+          "id": "20ed16ff-b538-4f56-93d1-f0b262ebdb8b",
+          "launcherShortcut": true,
+          "name": "Balcony Light Off",
+          "proxy": "",
+          "quickSettingsTileShortcut": true,
+          "responseHandling": {
+            "successMessage": "HDMI 2",
+            "successOutput": "none",
+            "uiType": "toast"
+          },
+          "url": "https://trigger.esp8266-server.de/api/?id\u003d3990\u0026hash\u003d0742d9963350e22f6d9140cfb558df9f"
+        },
+        {
+          "iconName": "black_weather_FFFFFF",
+          "id": "26ca6b2e-6e73-4f13-ae46-4cec978ce012",
+          "launcherShortcut": true,
+          "name": "Bedroom Light On",
+          "proxy": "",
+          "quickSettingsTileShortcut": true,
+          "responseHandling": {
+            "successMessage": "HDMI 2",
+            "successOutput": "none",
+            "uiType": "toast"
+          },
+          "url": "https://trigger.esp8266-server.de/api/?id\u003d3987\u0026hash\u003d0742d9963350e22f6d9140cfb558df9f"
+        },
+        {
+          "iconName": "black_moon_FFFFFF",
+          "id": "4f01ca7e-57aa-41a3-a685-2cec6923cf9f",
+          "launcherShortcut": true,
+          "name": "Bedroom Light Off",
+          "proxy": "",
+          "quickSettingsTileShortcut": true,
+          "responseHandling": {
+            "successMessage": "HDMI 2",
+            "successOutput": "none",
+            "uiType": "toast"
+          },
+          "url": "https://trigger.esp8266-server.de/api/?id\u003d3988\u0026hash\u003d0742d9963350e22f6d9140cfb558df9f"
+        },
+        {
+          "iconName": "black_weather_FFFFFF",
+          "id": "461c34b9-bb63-4ab5-95f3-2f6ef9da28d4",
+          "launcherShortcut": true,
+          "name": "Living Room Light On",
+          "proxy": "",
+          "quickSettingsTileShortcut": true,
+          "responseHandling": {
+            "successMessage": "HDMI 2",
+            "successOutput": "none",
+            "uiType": "toast"
+          },
+          "url": "https://trigger.esp8266-server.de/api/?id\u003d3984\u0026hash\u003d0742d9963350e22f6d9140cfb558df9f"
+        },
+        {
+          "iconName": "black_moon_FFFFFF",
+          "id": "ad982d31-8a0d-45fe-9961-b4b8dd8b3c8f",
+          "launcherShortcut": true,
+          "name": "Living Room Light Off",
+          "proxy": "",
+          "quickSettingsTileShortcut": true,
+          "responseHandling": {
+            "successMessage": "HDMI 2",
+            "successOutput": "none",
+            "uiType": "toast"
+          },
+          "url": "https://trigger.esp8266-server.de/api/?id\u003d3985\u0026hash\u003d0742d9963350e22f6d9140cfb558df9f"
+        },
+        {
+          "iconName": "black_media_play_FFFFFF",
+          "id": "488e0f3c-110f-4c20-9de7-893c3dafd5f6",
+          "launcherShortcut": true,
+          "name": "TV On",
+          "proxy": "",
+          "quickSettingsTileShortcut": true,
+          "responseHandling": {
+            "successMessage": "TV On",
+            "successOutput": "none",
+            "uiType": "toast"
+          },
+          "url": "https://trigger.esp8266-server.de/api/?id\u003d3980\u0026hash\u003d0742d9963350e22f6d9140cfb558df9f"
+        },
+        {
+          "iconName": "black_media_pause_FFFFFF",
+          "id": "73004cda-b94b-4be3-bbb4-b366eb7b1be1",
+          "launcherShortcut": true,
+          "name": "TV Off",
+          "proxy": "",
+          "quickSettingsTileShortcut": true,
+          "responseHandling": {
+            "successMessage": "TV Off",
+            "successOutput": "none",
+            "uiType": "toast"
+          },
+          "url": "https://trigger.esp8266-server.de/api/?id\u003d3981\u0026hash\u003d0742d9963350e22f6d9140cfb558df9f"
+        },
+        {
+          "iconName": "bitsies_volume_FFFFFF",
+          "id": "90fa44da-db1b-4dc3-b17a-f74cc4a46f91",
+          "launcherShortcut": true,
+          "name": "Sound On",
+          "proxy": "",
+          "quickSettingsTileShortcut": true,
+          "responseHandling": {
+            "successMessage": "Sound On",
+            "successOutput": "none",
+            "uiType": "toast"
+          },
+          "url": "https://trigger.esp8266-server.de/api/?id\u003d3991\u0026hash\u003d0742d9963350e22f6d9140cfb558df9f"
+        },
+        {
+          "iconName": "bitsies_mute_FFFFFF",
+          "id": "7314cf53-c162-4f77-b609-d5f1914121f0",
+          "launcherShortcut": true,
+          "name": "Sound Off",
+          "proxy": "",
+          "quickSettingsTileShortcut": true,
+          "responseHandling": {
+            "successMessage": "Sound Off",
+            "successOutput": "none",
+            "uiType": "toast"
+          },
+          "url": "https://trigger.esp8266-server.de/api/?id\u003d3992\u0026hash\u003d0742d9963350e22f6d9140cfb558df9f"
+        },
+        {
+          "iconName": "black_film_FFFFFF",
+          "id": "d071957c-4c8b-4027-be1e-ff79e21e3289",
+          "launcherShortcut": true,
+          "name": "TV Box",
+          "proxy": "",
+          "quickSettingsTileShortcut": true,
+          "responseHandling": {
+            "successMessage": "HDMI 1",
+            "successOutput": "none",
+            "uiType": "toast"
+          },
+          "url": "https://trigger.esp8266-server.de/api/?id\u003d3982\u0026hash\u003d0742d9963350e22f6d9140cfb558df9f"
+        },
+        {
+          "iconName": "black_network_sharing_FFFFFF",
+          "id": "977b863a-fa2a-48c9-b785-cc2fc6ed22aa",
+          "name": "Switch",
+          "responseHandling": {
+            "failureOutput": "none",
+            "successOutput": "none"
+          },
+          "url": "https://trigger.esp8266-server.de/api/?id\u003d4049\u0026hash\u003d0742d9963350e22f6d9140cfb558df9f"
+        },
+        {
+          "iconName": "black_joystick_FFFFFF",
+          "id": "704d35f8-8ece-455d-a6c4-d3aeaacf1958",
+          "launcherShortcut": true,
+          "name": "PS4",
+          "proxy": "",
+          "quickSettingsTileShortcut": true,
+          "responseHandling": {
+            "successMessage": "HDMI 2",
+            "successOutput": "none",
+            "uiType": "toast"
+          },
+          "url": "https://trigger.esp8266-server.de/api/?id\u003d3983\u0026hash\u003d0742d9963350e22f6d9140cfb558df9f"
+        },
+        {
+          "iconName": "black_laptop_FFFFFF",
+          "id": "98e1a6c2-da9e-4842-8e64-ae430ebad584",
+          "name": "PC",
+          "responseHandling": {
+            "failureOutput": "none",
+            "successOutput": "none"
+          },
+          "url": "https://trigger.esp8266-server.de/api/?id\u003d4050\u0026hash\u003d0742d9963350e22f6d9140cfb558df9f"
+        },
+        {
+          "iconName": "black_water_tap_FFFFFF",
+          "id": "fd118a01-d80b-4d26-9fa2-bd5809382ac2",
+          "launcherShortcut": true,
+          "name": "Boiler",
+          "proxy": "",
+          "quickSettingsTileShortcut": true,
+          "responseHandling": {
+            "successMessage": "Boiler",
+            "successOutput": "none",
+            "uiType": "toast"
+          },
+          "url": "https://trigger.esp8266-server.de/api/?id\u003d3986\u0026hash\u003d0742d9963350e22f6d9140cfb558df9f"
+        }
+      ]
+    }
+  ],
+  "compatibilityVersion": 71,
+  "version": 71
+}
